@@ -1,4 +1,4 @@
-# Automating Real-World-Tasks-with-Python
+# Automating Real-World Tasks with Python
 Author: Yash Aryan Chopra<br>
 This repository is based on my submissions to <a href='https://www.coursera.org/learn/automating-real-world-tasks-python/home/welcome'>Automating Real-World Tasks with Python</a> 
 course by Google on Coursera and is a part of <a href='https://www.coursera.org/professional-certificates/google-it-automation'>Google IT Automation with Python Professional Certificate</a>.<br>
